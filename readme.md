@@ -1,3 +1,3 @@
 # Webpack Demo
 
-Learning webpack via Survivaljs [Book](https://leanpub.com/survivejs-webpack)
+Learning webpack via SurviveJS [Book](https://leanpub.com/survivejs-webpack)
